@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\bami\projects\OLD\PESOK\Slic3r-master_changed\xs\src\admesh\connect.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\bami\projects\OLD\PESOK\Slic3r-master_changed\xs\src\admesh\normals.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\bami\projects\OLD\PESOK\Slic3r-master_changed\xs\src\admesh\shared.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\bami\projects\OLD\PESOK\Slic3r-master_changed\xs\src\admesh\stl_io.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\bami\projects\OLD\PESOK\Slic3r-master_changed\xs\src\admesh\stlinit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\bami\projects\OLD\PESOK\Slic3r-master_changed\xs\src\admesh\util.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\bami\projects\OLD\PESOK\Slic3r-master_changed\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BD7F6888-B328-3CD4-A34A-3004565A2435}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

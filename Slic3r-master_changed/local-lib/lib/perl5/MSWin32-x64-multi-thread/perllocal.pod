@@ -1,0 +1,264 @@
+=head2 Mon Jul  8 21:54:48 2019: C<Module> L<Mock::Config|Mock::Config>
+
+=over 4
+
+=item *
+
+C<installed into: D:\bami\projects\OLD\PESOK\Slic3r-master_changed\local-lib\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.03>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jul  8 21:55:03 2019: C<Module> L<Devel::CheckLib|Devel::CheckLib>
+
+=over 4
+
+=item *
+
+C<installed into: D:\bami\projects\OLD\PESOK\Slic3r-master_changed\local-lib\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.13>
+
+=item *
+
+C<EXE_FILES: bin/use-devel-checklib>
+
+=back
+
+=head2 Mon Jul  8 21:58:19 2019: C<Module> L<ExtUtils::ParseXS|ExtUtils::ParseXS>
+
+=over 4
+
+=item *
+
+C<installed into: D:\bami\projects\OLD\PESOK\Slic3r-master_changed\local-lib\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.35>
+
+=item *
+
+C<EXE_FILES: lib/ExtUtils/xsubpp>
+
+=back
+
+=head2 Mon Jul  8 21:58:27 2019: C<Module> L<Cwd|Cwd>
+
+=over 4
+
+=item *
+
+C<installed into: D:\bami\projects\OLD\PESOK\Slic3r-master_changed\local-lib\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.75>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jul  8 21:58:32 2019: C<Module> L<Getopt::Long|Getopt::Long>
+
+=over 4
+
+=item *
+
+C<installed into: D:\bami\projects\OLD\PESOK\Slic3r-master_changed\local-lib\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.50>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jul  8 21:58:51 2019: C<Module> L<Moo|Moo>
+
+=over 4
+
+=item *
+
+C<installed into: D:\bami\projects\OLD\PESOK\Slic3r-master_changed\local-lib\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.003004>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jul  8 21:59:06 2019: C<Module> L<List::Util|List::Util>
+
+=over 4
+
+=item *
+
+C<installed into: D:\bami\projects\OLD\PESOK\Slic3r-master_changed\local-lib\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.50>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jul  8 21:59:13 2019: C<Module> L<Test::Harness|Test::Harness>
+
+=over 4
+
+=item *
+
+C<installed into: D:\bami\projects\OLD\PESOK\Slic3r-master_changed\local-lib\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 3.42>
+
+=item *
+
+C<EXE_FILES: bin/prove>
+
+=back
+
+=head2 Mon Jul  8 22:00:24 2019: C<Module> L<Test::Simple|Test::Simple>
+
+=over 4
+
+=item *
+
+C<installed into: D:\bami\projects\OLD\PESOK\Slic3r-master_changed\local-lib\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.302164>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jul  8 22:00:39 2019: C<Module> L<Time::HiRes|Time::HiRes>
+
+=over 4
+
+=item *
+
+C<installed into: D:\bami\projects\OLD\PESOK\Slic3r-master_changed\local-lib\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.9760>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jul  8 22:00:46 2019: C<Module> L<Unicode::Normalize|Unicode::Normalize>
+
+=over 4
+
+=item *
+
+C<installed into: D:\bami\projects\OLD\PESOK\Slic3r-master_changed\local-lib\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 1.26>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
+=head2 Mon Jul  8 22:01:38 2019: C<Module> L<threads|threads>
+
+=over 4
+
+=item *
+
+C<installed into: D:\bami\projects\OLD\PESOK\Slic3r-master_changed\local-lib\lib\perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 2.21>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

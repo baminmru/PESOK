@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\bami\projects\OLD\PESOK\Slic3r-master_changed\build\CMakeFiles\68795ee8d95db2a914e8f0404ec6e470\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4110B289-34AC-33CE-AC34-98A26F4CF0F7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
